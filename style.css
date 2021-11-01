@@ -1,0 +1,119 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+body
+{
+   font-family:   Retina, Arial, Helvetica, sans-serif;
+}
+
+header
+{
+    background: rgba(0, 0, 0, 0.94);
+    color: white;
+}
+
+h2
+
+{
+   margin-bottom: -1rem;
+    margin-left: 2rem;
+}
+
+#menu1 li
+{
+
+    align-items: center;
+    display: inline;
+    margin-left: 2rem;
+    top: 2rem;
+    float: right;
+    margin-right: 5rem;
+
+}
+.bouton
+{
+    position: relative;
+    left: 81rem;
+}
+.sous-menu
+ {
+background-color:#232323;
+    color: white;
+    height: 17px;
+ }
+#menu2 li
+{
+    display: inline;
+    margin-left: 5rem;
+    float: left;
+}
+
+#video1
+{
+    margin-top: 2rem;
+}
+
+#textalec,#textjdg
+
+{
+    margin-left: 30rem;
+    margin-top: -15rem;
+}
+
+#video2
+{
+    margin-top: 14rem;
+}
+
+
+#titre2
+{
+    float: right;
+    margin-top: -24rem;
+    margin-right: 17rem;
+}
+#video3
+{
+    float: right;
+    margin-top: -19rem;
+    margin-right: 13rem;
+}
+
+#textmedusa
+{
+    float: right;
+    margin-top: -19rem;
+    margin-right: 3rem;
+}
+#video4
+{
+    float: right;
+    margin-top: -10rem;
+    margin-right: 13rem;
+}
+
+#textparis
+{
+    float: right;
+    margin-top: -10rem;
+    margin-right: 3rem;
+}
+#video5
+{
+    float: right;
+    margin-top: -1rem;
+    margin-right: 13rem;
+}
+
+#textol
+{
+    float: right;
+    margin-top: -1rem;
+    margin-right:-25rem;
+}
+#right{
+    background-color: #232323;
+}
